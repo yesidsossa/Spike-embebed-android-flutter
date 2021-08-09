@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8176c5f4-63db-4687-81e3-d2dfad34fc9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Spike-embebed-android-flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android_nativo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo/flutter_demo/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo/flutter_demo/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_nativo/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android_nativo/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_nativo/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android_nativo/app/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w2dn2Zs6eyuqKrrZp7AgTXPUya" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8176c5f4-63db-4687-81e3-d2dfad34fc9d" name="Default Changelist" comment="" />
+      <created>1627660780404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627660780404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="338" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627661085155">
+      <screen x="0" y="25" width="2560" height="1322" />
+    </state>
+    <state x="537" y="338" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1322@0.25.2560.1322" timestamp="1627661085155" />
+  </component>
+</project>

@@ -20,7 +20,7 @@ android {
     String storageUrl = System.env.FLUTTER_STORAGE_BASE_URL ?: "https://storage.googleapis.com"
     repositories {
         maven {
-            url '/Users/ysidhernandez/Documents/Projects/Flutter/demo/Modulo/flutter_demo/build/host/outputs/repo'
+            url '/Users/oscartigreros/AndroidStudioProjects/Spike-embebed-android-flutter/Modulo/flutter_demo/build/host/outputs/repo'
         }
         maven {
             url "$storageUrl/download.flutter.io"
